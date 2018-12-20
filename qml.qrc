@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>loading.gif</file>
+        <file>fonts/Simplified-Chinese3500.otf</file>
+    </qresource>
+</RCC>

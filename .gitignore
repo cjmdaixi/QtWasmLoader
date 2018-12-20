@@ -4,3 +4,4 @@ moc_*.*
 *_import.*
 *.o
 QtWasmLoader.html
+*.usr
