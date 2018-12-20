@@ -1,2 +1,6 @@
 Makefile
-*_import.cpp
+qrc_*.cpp
+moc_*.*
+*_import.*
+*.o
+QtWasmLoader.html
