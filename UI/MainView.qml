@@ -10,6 +10,7 @@ Rectangle {
         id: label
         anchors.centerIn: parent
         text: "\u4f60\u597d\u6211\u4eec"
+        color: "white"
     }
 
     DarkSwitch{
