@@ -2,9 +2,10 @@ import QtQuick 2.9
 import QtQuick.Controls 2.4
 //import "."
 
-Item {
+Rectangle {
     id: root
-
+    color: "#2c2b30"
+    
     Label{
         id: label
         anchors.centerIn: parent
