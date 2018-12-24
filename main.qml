@@ -48,7 +48,7 @@ ApplicationWindow {
     Loader{
         id: mainView
         anchors.fill: parent
-        source: "https://cjmdaixi.github.io/QtWasmLoader/UI/MainView.qml"
+        source: "https://jimmychen.space/QtWasmLoader/UI/MainView.qml"
         onLoaded: {
             loadingItem.visible = false;
         }
